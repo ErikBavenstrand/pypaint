@@ -1,2 +1,3 @@
 venv/
 testfile.py
+.DS_Store
